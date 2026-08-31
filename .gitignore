@@ -1,0 +1,10 @@
+# Rapports generes par les tests
+report_*.txt
+
+# Environnements virtuels Python (si tu en crees un plus tard)
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers systeme Windows
+Thumbs.db
