@@ -8,3 +8,4 @@ __pycache__/
 
 # Fichiers systeme Windows
 Thumbs.db
+alerts.log
