@@ -97,7 +97,7 @@ py port_scanner.py --host 127.0.0.1 --start-port 7990 --end-port 8010
 
 Résultat attendu : le port 8000 apparaît comme `OUVERT` dans le rapport.
 
-Tu peux aussi scanner directement ta propre machine sans serveur de test :
+On peut aussi scanner directement sa propre machine sans serveur de test :
 
 ```
 py port_scanner.py --host 127.0.0.1 --start-port 1 --end-port 1024
